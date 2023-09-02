@@ -1,0 +1,607 @@
+
+.portofolios-details,
+.portofolios-details * {
+  box-sizing: border-box;
+  overflow: auto;
+
+}
+.portofolios-details {
+  background: var(--grayscale-white, #ffffff);
+  width: 1440px;
+  height: 3765px;
+  position: relative;
+
+    overflow: auto; /* Enable scrolling when content exceeds the viewport */
+  }
+
+
+
+
+.minimalist-room {
+  color: var(--grayscale-black, #000000);
+  text-align: left;
+  font: var(--poppins-bold-56, 700 56px/140% "Poppins", sans-serif);
+  position: absolute;
+  left: 477px;
+  top: 191px;
+}
+.it-is-a-long-established-fact-that-a-reader-will-be-distracted-by-the-readable-content-of-a-page-when-looking-at-its-layout {
+  color: var(--grayscale-black, #000000);
+  text-align: center;
+  font: var(--poppins-regular-18, 400 18px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 461px;
+  top: 309px;
+  width: 518px;
+}
+.group-1000004371 {
+  position: absolute;
+  inset: 0;
+}
+.home {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: 400 16px "Poppins", sans-serif;
+  position: absolute;
+  left: 606px;
+  top: 55px;
+}
+.about-us {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: 400 16px "Poppins", sans-serif;
+  position: absolute;
+  left: 728px;
+  top: 55px;
+}
+.our-teams {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: 600 16px "Poppins", sans-serif;
+  position: absolute;
+  left: 1015px;
+  top: 55px;
+}
+.services {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: 400 16px "Poppins", sans-serif;
+  position: absolute;
+  left: 874px;
+  top: 55px;
+}
+.frame-2 {
+  background: var(--primary-blue-100, #2c3878);
+  border-style: solid;
+  border-color: var(--grayscale-30, #3c3c3c);
+  border-width: 1px;
+  padding: 14px 32px 14px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1178px;
+  top: 42px;
+}
+.contact-us {
+  color: var(--grayscale-white, #ffffff);
+  text-align: left;
+  font: 500 14px "Poppins", sans-serif;
+  position: relative;
+}
+.group-1000004360 {
+  position: absolute;
+  inset: 0;
+}
+.group-1000004251 {
+  width: 126px;
+  height: 54px;
+  position: static;
+}
+.dananz {
+  color: var(--grayscale-black, #000000);
+  text-align: left;
+  font: 700 31.93px/170% "Poppins", sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 40px;
+}
+.vector-286 {
+  position: absolute;
+  left: 175.62px;
+  top: 69px;
+  overflow: visible;
+}
+.vector-288 {
+  position: absolute;
+  left: 179.21px;
+  top: 81.5px;
+  transform: translate(-4.37px, -1px);
+  overflow: visible;
+}
+.vector-289 {
+  position: absolute;
+  left: 215.35px;
+  top: 81.5px;
+  overflow: visible;
+}
+.group-1000004372 {
+  position: absolute;
+  inset: 0;
+}
+.group-1000004337 {
+  width: 1440px;
+  height: 203px;
+  position: static;
+}
+.rectangle-869 {
+  background: var(--primary-blue-100, #2c3878);
+  width: 1440px;
+  height: 203px;
+  position: absolute;
+  left: 0px;
+  top: 3167px;
+}
+.group-1000004329 {
+  width: 1200px;
+  height: 127px;
+  position: static;
+}
+.group-1000004402 {
+  width: 1200px;
+  height: 127px;
+  position: static;
+}
+.let-s-discuss-making-your-interior-like-a-dream-place {
+  color: var(--grayscale-white, #ffffff);
+  text-align: left;
+  font: var(--poppins-semi-bold-36, 600 36px/170% "Poppins", sans-serif);
+  position: absolute;
+  left: 120px;
+  top: 3208px;
+  width: 613px;
+}
+.group-1000004401 {
+  width: 432px;
+  height: 127px;
+  position: static;
+}
+.contact-us-below-to-work-together-to-build-your-amazing-interior {
+  color: var(--grayscale-lightray, #d9d9d9);
+  text-align: left;
+  font: var(--poppins-regular-18, 400 18px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 888px;
+  top: 3205px;
+  width: 432px;
+}
+.frame-5 {
+  background: var(--grayscale-white, #ffffff);
+  padding: 14px 32px 14px 32px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 888px;
+  top: 3283px;
+}
+.contact-us2 {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: 500 14px "Poppins", sans-serif;
+  position: relative;
+}
+.vector-32 {
+  position: absolute;
+  left: 1288px;
+  top: 3527.24px;
+  overflow: visible;
+}
+.group-2001 {
+  width: 380px;
+  height: 79.26px;
+  position: static;
+}
+.enter-your-email-to-get-the-laterst-news {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: var(--poppins-regular-18, 400 18px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 904px;
+  top: 3482px;
+}
+.email-address {
+  color: var(--grayscale-lightray, #d9d9d9);
+  text-align: left;
+  font: var(--poppins-regular-16, 400 16px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 880px;
+  top: 3534.23px;
+  width: 113px;
+  height: 27.03px;
+}
+.ellipse-74 {
+  background: var(--grayscale-50, #333333);
+  border-radius: 50%;
+  width: 14px;
+  height: 14.02px;
+  position: absolute;
+  left: 880px;
+  top: 3490.17px;
+}
+.one-of-the-best-furniture-agency {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: var(--poppins-semi-bold-36, 600 36px/170% "Poppins", sans-serif);
+  position: absolute;
+  left: 120px;
+  top: 3516px;
+  width: 481px;
+}
+.group-1000004338 {
+  width: 203px;
+  height: 69px;
+  position: static;
+}
+.ellipse-320 {
+  background: var(--grayscale-lightray, #d9d9d9);
+  border-radius: 50%;
+  border-style: solid;
+  border-color: var(--grayscale-lightray, #d9d9d9);
+  border-width: 1px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1117px;
+  top: 3653px;
+}
+.ellipse-321 {
+  background: var(--grayscale-lightray, #d9d9d9);
+  border-radius: 50%;
+  border-style: solid;
+  border-color: var(--grayscale-lightray, #d9d9d9);
+  border-width: 1px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1174px;
+  top: 3652.72px;
+}
+.ellipse-322 {
+  background: var(--grayscale-lightray, #d9d9d9);
+  border-radius: 50%;
+  border-style: solid;
+  border-color: var(--grayscale-lightray, #d9d9d9);
+  border-width: 1px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1231px;
+  top: 3653px;
+}
+.ellipse-323 {
+  background: var(--grayscale-lightray, #d9d9d9);
+  border-radius: 50%;
+  border-style: solid;
+  border-color: var(--grayscale-lightray, #d9d9d9);
+  border-width: 1px;
+  width: 32px;
+  height: 32px;
+  position: absolute;
+  left: 1288px;
+  top: 3653px;
+}
+.follow-us-on {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: var(--poppins-regular-16, 400 16px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 1117px;
+  top: 3616px;
+}
+.line-11 {
+  border-style: solid;
+  border-color: var(--grayscale-70, #141414);
+  border-width: 1px 0 0 0;
+  width: 440px;
+  height: 0px;
+  position: absolute;
+  left: 880px;
+  top: 3576.28px;
+}
+.group-1000004361 {
+  width: 126px;
+  height: 54px;
+  position: static;
+}
+.dananz2 {
+  color: var(--grayscale-black, #000000);
+  text-align: left;
+  font: 700 31.93px/170% "Poppins", sans-serif;
+  position: absolute;
+  left: 120px;
+  top: 3450px;
+}
+.vector-2862 {
+  position: absolute;
+  left: 175.62px;
+  top: 3479px;
+  overflow: visible;
+}
+.online-learning-with-us-does-not-interfere-with-your-daily-life-because-learning-can-be-done-anytime-and-anywhere-online-learning-with-us-does-not-interfere-with-your-daily-life-because-learning-can-be-done-anytime-and-anywhere-online-learning-with-us-does-not-interfere-with-your-daily-life-because-learning-can-be-done-anytime-and-anywhere {
+  color: var(--grayscale-10, #9c9c9c);
+  text-align: left;
+  font: var(--poppins-regular-18, 400 18px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 120px;
+  top: 1120px;
+  width: 584px;
+}
+.july-22-2022 {
+  color: var(--grayscale-10, #9c9c9c);
+  text-align: left;
+  font: var(--poppins-regular-18, 400 18px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 120px;
+  top: 1354px;
+}
+.interior-design-furnitur {
+  color: var(--grayscale-10, #9c9c9c);
+  text-align: left;
+  font: var(--poppins-regular-18, 400 18px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 324px;
+  top: 1354px;
+}
+.online-learning-with-us-does-not-interfere-with-your-daily-life-because-learning-can-be-done-anytime-and-anywhere-online-learning-with-us-does-not-interfere-with-your-daily-life-because-learning-can-be-done-anytime-and-anywhere {
+  color: var(--grayscale-10, #9c9c9c);
+  text-align: left;
+  font: var(--poppins-regular-18, 400 18px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 736px;
+  top: 1120px;
+  width: 584px;
+}
+.online-learning-with-us-does-not-interfere-with-your-daily-life-because-learning-can-be-done-anytime-and-anywhere-online-learning-with-us-does-not-interfere-with-your-daily-life-because-learning-can-be-done-anytime-and-anywhere2 {
+  color: var(--grayscale-10, #9c9c9c);
+  text-align: left;
+  font: var(--poppins-regular-18, 400 18px/160% "Poppins", sans-serif);
+  position: absolute;
+  left: 736px;
+  top: 1266px;
+  width: 584px;
+}
+.project-overview {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: var(--poppins-semi-bold-24, 600 24px/140% "Poppins", sans-serif);
+  position: absolute;
+  left: 120px;
+  top: 1062px;
+}
+.design-process {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: var(--poppins-semi-bold-24, 600 24px/140% "Poppins", sans-serif);
+  position: absolute;
+  left: 736px;
+  top: 1062px;
+}
+.mask-group {
+  position: absolute;
+  inset: 0;
+}
+.rectangle-877 {
+  background: #d9d9d9;
+  width: 1200px;
+  height: 513px;
+  position: absolute;
+  left: 120px;
+  top: 449px;
+}
+.unsplash-77-ja-csl-a-8-g-0 {
+  width: 1200px;
+  height: 513px;
+  position: absolute;
+  left: 120px;
+  top: 449px;
+}
+.rectangle-878 {
+  background: #d9d9d9;
+  width: 584px;
+  height: 513px;
+  position: absolute;
+  left: 120px;
+  top: 1464px;
+}
+.unsplash-7-t-fl-uf-ga-7-dk {
+  width: 584px;
+  height: 513px;
+  position: absolute;
+  left: 120px;
+  top: 1464px;
+}
+.rectangle-882 {
+  background: #d9d9d9;
+  width: 584px;
+  height: 513px;
+  position: absolute;
+  left: 736px;
+  top: 2554px;
+}
+.unsplash-2-b-zu-ggk-p-4-k {
+  width: 584px;
+  height: 524px;
+  position: absolute;
+  left: 736px;
+  top: 2554px;
+}
+.rectangle-881 {
+  background: #d9d9d9;
+  width: 584px;
+  height: 513px;
+  position: absolute;
+  left: 120px;
+  top: 2554px;
+}
+.unsplash-d-o-3-q-t-kxwik-0 {
+  width: 584px;
+  height: 513px;
+  position: absolute;
+  left: 120px;
+  top: 2554px;
+}
+.rectangle-879 {
+  background: #d9d9d9;
+  width: 584px;
+  height: 513px;
+  position: absolute;
+  left: 736px;
+  top: 1464px;
+}
+.unsplash-sd-r-zr-k-4-l-v-ck {
+  width: 584px;
+  height: 513px;
+  position: absolute;
+  left: 736px;
+  top: 1464px;
+}
+.rectangle-880 {
+  background: #d9d9d9;
+  width: 1200px;
+  height: 513px;
+  position: absolute;
+  left: 120px;
+  top: 2009px;
+}
+.unsplash-ji-ujvqe-2-z-hg {
+  width: 1200px;
+  height: 513px;
+  position: absolute;
+  left: 120px;
+  top: 2009px;
+}
+.group-1000004403 {
+  position: absolute;
+  inset: 0;
+}
+.icon-instagram {
+  position: absolute;
+  left: 1178px;
+  top: 3657px;
+  overflow: visible;
+}
+.icon-facebook {
+  position: absolute;
+  left: 1121px;
+  top: 3657px;
+  overflow: visible;
+}
+.icon-tiktok {
+  position: absolute;
+  left: 1235px;
+  top: 3657px;
+  overflow: visible;
+}
+.icon-youtube {
+  position: absolute;
+  left: 1292px;
+  top: 3657px;
+  overflow: visible;
+}
+
+
+/* Media query for screens with a maximum width of 767px */
+@media (max-width: 767px) {
+  .minimalist-room {
+    font-size: 36px; /* Adjust font size for smaller screens */
+    left: 10px; /* Adjust positioning for smaller screens */
+    top: 10px; /* Adjust positioning for smaller screens */
+  }
+}
+
+/* Media query for screens with a maximum width of 1024px */
+@media (max-width: 1024px) {
+  /* Add specific styles for screens up to 1024px here */
+  .minimalist-room {
+    font-size: 48px; /* Adjust font size for medium-sized screens */
+    left: 30px; /* Adjust positioning for medium-sized screens */
+    top: 30px; /* Adjust positioning for medium-sized screens */
+  }
+}
+
+/* Media query for screens with a maximum width of 1440px */
+@media (max-width: 1440px) {
+  /* Add specific styles for screens up to 1440px here */
+  .minimalist-room {
+    font-size: 56px; /* Adjust font size for larger screens */
+    left: 40px; /* Adjust positioning for larger screens */
+    top: 40px; /* Adjust positioning for larger screens */
+  }
+}
+/* Base styles for all screen sizes */
+
+/* ... (Previous code) ... */
+
+/* Common styles for navigation links */
+.home,
+.about-us,
+.our-teams,
+.services {
+  color: var(--grayscale-50, #333333);
+  text-align: left;
+  font: 400 16px "Poppins", sans-serif;
+  position: absolute;
+  top: 55px; /* Adjust the top position as needed */
+}
+
+/* Media query for screens with a maximum width of 767px */
+@media (max-width: 767px) {
+  .home,
+  .about-us,
+  .our-teams,
+  .services {
+    font-size: 14px; /* Adjust font size for smaller screens */
+    top: 40px; /* Adjust the top position for smaller screens */
+  }
+}
+
+/* Media query for screens with a maximum width of 1024px */
+@media (max-width: 1024px) {
+  .home,
+  .about-us,
+  .our-teams,
+  .services {
+    font-size: 16px; /* Adjust font size for medium-sized screens */
+    top: 50px; /* Adjust the top position for medium-sized screens */
+  }
+}
+
+/* Media query for screens with a maximum width of 1440px */
+@media (max-width: 1440px) {
+  .home,
+  .about-us,
+  .our-teams,
+  .services {
+    font-size: 18px; /* Adjust font size for larger screens */
+    top: 60px; /* Adjust the top position for larger screens */
+  }
+}
+
+/* Add more media queries and styles for other screen sizes as needed */
+
+/* Example media query for larger screens (min-width: 1600px) */
+@media (min-width: 1600px) {
+  .home,
+  .about-us,
+  .our-teams,
+  .services {
+    font-size: 20px; /* Adjust font size for screens larger than 1600px */
+    top: 70px; /* Adjust the top position for screens larger than 1600px */
+  }
+}
+
